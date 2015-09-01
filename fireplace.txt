@@ -1,0 +1,6 @@
+Connecting fireplace to repl in subdirectory clj file 
+
+open clj file and repl
+set matching namespaces for both flie and repl > (ns overtone-lab.sound)
+Manually connect clj to repl > Connect nrepl://localhost:<port>
+Connect to overtone  > (use 'overtone.live)
